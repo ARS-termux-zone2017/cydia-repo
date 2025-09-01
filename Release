@@ -1,0 +1,7 @@
+Origin: My Kali Test Cydia Repo
+Label: KaliTestRepo
+Suite: stable
+Version: 1.0
+Codename: iphoneos-arm
+Architectures: iphoneos-arm
+Description: A test Cydia repository created on Kali Linux.

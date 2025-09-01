@@ -1,0 +1,12 @@
+Package: com.ars-termux-zone2017.dummy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AR ABiR <arabir3953@gmail.com>
+Filename: debs/dummy-package_1.0_iphoneos-arm.deb
+Size: 828
+MD5sum: 3728632f64d5f4887451860c862bff0b
+SHA1: 75ed6979dca2950532e2a6f5b9e3ee21372d650b
+SHA256: 09c942d72d7869b4fd9a7fb2a1304cd00cb710d6bedd6024faca66f69b6ae931
+Description: A dummy package for testing your Cydia repo.
+Author: AR ABiR <arabir3953@gmail.com>
+
